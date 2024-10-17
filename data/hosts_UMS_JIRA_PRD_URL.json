@@ -1,0 +1,841 @@
+{
+    "hosts": [
+        {
+            "host": "https://casa.fa.us2.oraclecloud.com/analytics"
+        },
+        {
+            "host": "https://www.adpexpert.com.br"
+        },
+        {
+            "host": "https://segurosunimed.my.idaptive.app"
+        },
+        {
+            "host": "https://segurosunimed.beedoo.io/login"
+        },
+        {
+            "host": "https://segunimedregulacao.beedoo.io/login"
+        },
+        {
+            "host": "http://biee.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://clubedevantagens.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://hcm19.sapsf.com/sf/start/#/login"
+        },
+        {
+            "host": "https://gem.segurosunimed.com.br/gemprd/login.htm"
+        },
+        {
+            "host": "http://coopera.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://cooperaplay.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://evida.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "http://gia.segurosunimed.com.br"
+        },
+        {
+            "host": "https://corp.govertravel.com/unimedseguros"
+        },
+        {
+            "host": "https://guiamedico.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://www.segurosunimed.com.br/institucional/servicos/guiamedico"
+        },
+        {
+            "host": "http://isj.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://ti-segurosunimed-soa.atlassian.net/servicedesk/customer/portals"
+        },
+        {
+            "host": "https://ti-segurosunimed-soa.atlassian.net/jira/your-work"
+        },
+        {
+            "host": "https://joker.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://jokerdocs.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://memoriadevalor.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://mol.segurosunimed.com.br"
+        },
+        {
+            "host": "https://segurosunimed.movidesk.com/Account/Login?ReturnUrl=%2f"
+        },
+        {
+            "host": "https://pep.segurosunimed.com.br"
+        },
+        {
+            "host": "https://www.segurosunimed.com.br/login-cliente"
+        },
+        {
+            "host": "https://portal.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://bi.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://unimedseguros.govertravel.com/site/nv/Autenticacao/LogOn?ReturnUrl=%2fsite%2fnv%2f"
+        },
+        {
+            "host": "https://sgi.segurosunimed.com.br"
+        },
+        {
+            "host": "http://topdental.unimedodonto.com.br"
+        },
+        {
+            "host": "http://topsaude.segurosunimed.com.br/WS/TISS/v3/03/03/tissSolicitacaoStatusAutorizacao.asmx?"
+        },
+        {
+            "host": "http://v12topsaude.segurosunimed.com.br/TSNMVC/Account/Login"
+        },
+        {
+            "host": "https://unimedodonto.com.br/"
+        },
+        {
+            "host": "http://dxcmtf3vrbk3s.cloudfront.net/"
+        },
+        {
+            "host": "https://www.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://portalevida.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://portalcorretor.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://www.unimedodonto.com.br/"
+        },
+        {
+            "host": "https://prd-api-vidaindividual.segurosunimed.com.br/index.html"
+        },
+        {
+            "host": "http://fechamento.evida.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "http://intranet.evida.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "http://vip.evida.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "http://evida.segurosunimed.com.br:81/NovoPortal/GestaoDeProduto/ApoliceService.svc"
+        },
+        {
+            "host": "http://unimed17.complexo.unimed:81/NovoPortal/GestaoFinanceira/ApoliceInfoFinanceiroService.svc"
+        },
+        {
+            "host": "https://topdental.unimedodonto.com.br/ace/ace001a.asp?tp_cliente="
+        },
+        {
+            "host": "https://api.unimedodonto.com.br/dentistas/atualizacao"
+        },
+        {
+            "host": "https://frameportalodonto.segurosunimed.com.br/ace/ace001a.asp?tp_cliente="
+        },
+        {
+            "host": "https://gestordefontes.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://crm.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://rh-sso.segurosunimed.com.br"
+        },
+        {
+            "host": "https://prev-ap.segurosunimed.com.br"
+        },
+        {
+            "host": "prev-ap.segurosunimed.com.br"
+        },
+        {
+            "host": "https://joker.segurosunimed.com.br/Main.aspx"
+        },
+        {
+            "host": "http://guiamedico.segurosunimed.com.br"
+        },
+        {
+            "host": "https://avisodigitalsinistro.segurosunimed.com.br"
+        },
+        {
+            "host": "http://extrato.unimedparticipacoes.com.br"
+        },
+        {
+            "host": "https://preaviso.segurosunimed.com.br"
+        },
+        {
+            "host": "https://ra.segurosunimed.com.br"
+        },
+        {
+            "host": "https://ri.segurosunimed.com.br"
+        },
+        {
+            "host": "http://jokerdocs.segurosunimed.com.br"
+        },
+        {
+            "host": "https://sgi.segurosunimed.com.br/apps/cmn/LauncherLogin.jsp"
+        },
+        {
+            "host": "https://sage.segurosunimed.com.br/UniverseS/LoginUniverse.aspx"
+        },
+        {
+            "host": "https://dlp.segurosunimed.com.br/WebSafetica"
+        },
+        {
+            "host": "https://svc-evida.segurosunimed.com.br/portal/login.asmx"
+        },
+        {
+            "host": "https://resseguros.segurosunimed.com.br/seguranca/"
+        },
+        {
+            "host": "https://resseguros.segurosunimed.com.br/girus/#/login"
+        },
+        {
+            "host": "https://resseguros.segurosunimed.com.br/gecon/"
+        },
+        {
+            "host": "https://old.unimedodonto.com.br/prestador/login"
+        },
+        {
+            "host": "https://old.unimedodonto.com.br/admin/api/configs/login"
+        },
+        {
+            "host": "https://eprev.segurosunimed.com.br"
+        },
+        {
+            "host": "https://sage.segurosunimed.com.br/Universe"
+        },
+        {
+            "host": "https://controlm.wlasaas.com:8443/ControlM/"
+        },
+        {
+            "host": "https://ti-segurosunimed-soa.atlassian.net/wiki/home"
+        },
+        {
+            "host": "https://services.evida.segurosunimed.com.br"
+        },
+        {
+            "host": "https://stcpedi.segurosunimed.com.br:4443/portal/#/"
+        },
+        {
+            "host": "https://stcpedi.segurosunimed.com.br:8080/"
+        },
+        {
+            "host": "https://rabbitmq-recfacial.digital-segurosunimed.com"
+        },
+        {
+            "host": "https://svc-evida.segurosunimed.com.br/portal/proposta.asmx"
+        },
+        {
+            "host": "http://TVSWTOPDPAP01/ace/ace001a.asp?tp_cliente="
+        },
+        {
+            "host": "http://TVSWTOPDPAP02/ace/ace001a.asp?tp_cliente="
+        },
+        {
+            "host": "http://TVSWTOPDPAP03/ace/ace001a.asp?tp_cliente="
+        },
+        {
+            "host": "https://topdental.unimedodonto.com.br/WS/TopDown.Movimentacao.Cadastral.API/swagger/index.html"
+        },
+        {
+            "host": "https://topdental.unimedodonto.com.br/WS/TopDown.Movimentacao.Cadastral.Repository/swagger/index.html"
+        },
+        {
+            "host": "http://eprev.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://www.segurosunimed.com.br/guia-medico"
+        },
+        {
+            "host": "https://www.segurosunimed.com.br/guia-medico/"
+        },
+        {
+            "host": "https://portalpf.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://tvslsaspap01.complexo.unimed:7980/SASSNA"
+        },
+        {
+            "host": "http://tvslsaspap01.complexo.unimed:7980/SASVisualAnalyticsViewer"
+        },
+        {
+            "host": "https://topsaude.segurosunimed.com.br/WS/TISS/v3/03/03/tissSolicitacaoProcedimento.asmx?wsdl"
+        },
+        {
+            "host": "https://topsaude.segurosunimed.com.br/WS/TISS/v3/03/02/tissSolicitacaoStatusAutorizacao.asmx?wsdl"
+        },
+        {
+            "host": "https://topsaude.segurosunimed.com.br/WS/TISS/v3/03/02/tissSolicitacaoProcedimento.asmx?wsdl"
+        },
+        {
+            "host": "https://topsaude.segurosunimed.com.br/WS/TISS/v3/03/01/tissSolicitacaoStatusAutorizacao.asmx?wsdl"
+        },
+        {
+            "host": "https://topsaude.segurosunimed.com.br/WS/TISS/v3/03/01/tissSolicitacaoProcedimento.asmx?wsdl"
+        },
+        {
+            "host": "https://administrativo.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://grafana-server.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://bibliotecavirtual.segurosunimed.com.br"
+        },
+        {
+            "host": "https://usuarioespelho.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://gestaoportal.segurosunimed.com.br/"
+        },
+        {
+            "host": "guiadoportavoz.segurosunimed.com.br/wp-login.php"
+        },
+        {
+            "host": "loja.segurosunimed.com.br"
+        },
+        {
+            "host": "http://alcada.segurosunimed.com.br"
+        },
+        {
+            "host": "https://vida-cobranca.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://odonto-cobranca-java.digital-segurosunimed.com/actuator/health"
+        },
+        {
+            "host": "https://re-cobranca-service.digital-segurosunimed.com/actuator/health"
+        },
+        {
+            "host": "http://AWSLAPOPRD2:8000"
+        },
+        {
+            "host": "https://joker-ws.segurosunimed.com.br/jokerdocsws/jokerintegration.asmx"
+        },
+        {
+            "host": "https://uni-saude.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-odonto.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-re.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-prev.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-siebel.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-joker.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-vida.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-gem.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-base21.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://regional-office-app.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://uni-sinistro.digital-segurosunimed.com/api/actuator/health"
+        },
+        {
+            "host": "https://gestor-fontes.digital-segurosunimed.com/swagger-ui/index.html"
+        },
+        {
+            "host": "http://mol.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://joker-ws.segurosunimed.com.br/jokerdocsws/jokerintegration.asmx?wsdl"
+        },
+        {
+            "host": "https://jokerdocsws.segurosunimed.com.br/jokerintegration.asmx?wsdl"
+        },
+        {
+            "host": "Certificado: http://segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: http://unimedodonto.com.br"
+        },
+        {
+            "host": "Certificado: http://extrato.unimedparticipacoes.com.br"
+        },
+        {
+            "host": "Certificado: https://clubedevantagens.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://inovamaissaude.com.br"
+        },
+        {
+            "host": "Certificado: https://www.promocaovivaavida.com.br"
+        },
+        {
+            "host": "Certificado: https://sustentabilidade.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://www.investcoop.com.br"
+        },
+        {
+            "host": "Certificado: https://blog.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://conexao.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://bibliotecavirtual.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://cooperaplay.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://memoriadevalor.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://simuladordofuturo.segurosunimed.com.br"
+        },
+        {
+            "host": "Certificado: https://ra.segurosunimed.com.br"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/eprev"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/siebel/protocolo/gerar"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/ere"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/evida-grupo"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/evida-individual"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/siebel"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/top-saude"
+        },
+        {
+            "host": "https://omnichannel.digital-segurosunimed.com/top-dental"
+        },
+        {
+            "host": "https://uni-sas.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://api-services.digital-segurosunimed.com/saude-atualizacao-cadastral/estado-civil"
+        },
+        {
+            "host": "Certificado: webapp292426.ip-45-56-127-189.cloudezapp.io/"
+        },
+        {
+            "host": "https://connectorbi.segurosunimed.com.br/"
+        },
+        {
+            "host": "http://ocilpwcpap01:6008/administrator/"
+        },
+        {
+            "host": "https://uni-audit-trail-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-audit-trail-processor.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-audit-trail-admin.segurosunimed.com.br"
+        },
+        {
+            "host": "APACHE - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web/"
+        },
+        {
+            "host": "https://www.google.com/recaptcha/admin/site/690450083"
+        },
+        {
+            "host": "Wildfly - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web:8443"
+        },
+        {
+            "host": "Wildfly - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web:8015"
+        },
+        {
+            "host": "Wildfly - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web:9990"
+        },
+        {
+            "host": "Ebix Batch Hub - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web:8081"
+        },
+        {
+            "host": "Ebix Exchange Admin - URL - https://exchangehub-prd.segurosunimed.com.br/exchange-hub-web:8083"
+        },
+        {
+            "host": "https://admin-cda-colaborador.segurosunimed.com.br/login"
+        },
+        {
+            "host": "api-cda-colaborador.segurosunimed.com.br"
+        },
+        {
+            "host": "cda-colaborador.segurosunimed.com.br"
+        },
+        {
+            "host": "kubecost.cda-eks-prod.public.k8s.digital-segurosunimed.com"
+        },
+        {
+            "host": "monitoring-k8s.cda-eks-prod.public.k8s.digital-segurosunimed.com"
+        },
+        {
+            "host": "monitoring.cda-eks-prod.public.k8s.digital-segurosunimed.com"
+        },
+        {
+            "host": "prometheus-prometheus.cda-eks-prod.public.k8s.digital-segurosunimed.com"
+        },
+        {
+            "host": "https://reembolsowsv1-java.segurosunimed.com.br/saudereembolsowsv1/actuator/health"
+        },
+        {
+            "host": "http://chatbot-unimed.io/"
+        },
+        {
+            "host": "https://loja.unimedodonto.com.br/"
+        },
+        {
+            "host": "https://loja.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://ere.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "https://ere.segurosunimed.com.br/API/index.html"
+        },
+        {
+            "host": "https://svc-ere.segurosunimed.com.br/Corp/CorpPDFService.svc"
+        },
+        {
+            "host": "https://scsa.synchro.com.br/auth/realms/scsa/protocol/openid-connect/auth?client_id=foundation-producao&redirect_uri=http%3A%2F%"
+        },
+        {
+            "host": "https://unimed-producao.synchro.com.br/synchro4me"
+        },
+        {
+            "host": "Certificado: https://nexus.hml.digital-segurosunimed.com/"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASLogon/login"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASStudio"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASStoredProcess/do"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualAnalyticsHub"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualAnalyticsDesigner"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualAnalyticsViewer"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualDataBuilder"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualAnalyticsGraphBuilder"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASVisualAnalyticsAdministrator"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASThemeDesigner"
+        },
+        {
+            "host": "URL - https://mol.segurosunimed.com.br/Login"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASRiskGovernanceFramework"
+        },
+        {
+            "host": "URL - http://ocilsascpap03.complexo.unimed:7980/SASIRM"
+        },
+        {
+            "host": "URL - https://ere.segurosunimed.com.br/Dina/Login"
+        },
+        {
+            "host": "URL - https://svc-ere.segurosunimed.com.br"
+        },
+        {
+            "host": "https://analise-cadastro-parceiros.segurosunimed.com.br/"
+        },
+        {
+            "host": "URL - https://scsa.synchro.com.br/auth/realms/scsa/protocol/openid-connect/auth?client_id=foundation-producao&redirect_uri=http%"
+        },
+        {
+            "host": "URL - https://brms-gateway-empresarial-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-rcpso-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL -  https://brms-rules-previdencia-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-odonto-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-residencial-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-residencial-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-vida-coletiva-serit-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-deo-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-rcp-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-vida-b2c-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-rcpso-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-empresarial-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-rcp-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-vida-b2c-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-rcp-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-residencial-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-rcp-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-empresarial-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-empresarial-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-odonto-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://sso-prd.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "URL - https://brms-gateway-previdencia-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-saude-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-rules-saude-cotacao.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://re-apolices.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "URL - https://planos-documentos-regulatorios.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "URL - https://blacklist.nlb.digital-segurosunimed.com/"
+        },
+        {
+            "host": "URL - https://brms-rules-deo-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "URL - https://brms-gateway-residencial-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://segurosunimed.planium.io/web/login/entrar"
+        },
+        {
+            "host": "https://vida-cobranca.nlb.digital-segurosunimed.com/swagger-ui.html"
+        },
+        {
+            "host": "URL - https://saude-nova-carteirinha.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "https://vida-financeiro.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "https://vida-estipulante-contratos.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "https://processador-ocr-java.segurosunimed.com.br/swagger-ui/"
+        },
+        {
+            "host": "https://aol-integracao-legado.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://sinistro-controller-ear.segurosunimed.com.br/vida-b2c/api/ambiente"
+        },
+        {
+            "host": "https://xdk-logs.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://xdk-notification.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://xdk-report.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://xdk-security.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://sinistro-integration-ear.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://agendamento.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://joker-docs-integration.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://simulador-gastos-odonto.segurosunimed.com.br/simulador"
+        },
+        {
+            "host": "https://unicheck.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-profiler.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-ldap-service.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-static-data.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://barramento-gateway-java.digital-segurosunimed.com/monitor/health"
+        },
+        {
+            "host": "https://brms-rules-equipamentos-medicos-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://brms-gateway-equipamentos-medicos-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://produto-re-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://financeiro-ramos-elementares-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://config-gateway-java.segurosunimed.com.br/swagger-ui.html"
+        },
+        {
+            "host": "https://notificacao-service-ws.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://regional-office-service.segurosunimed.com.br/api/actuator/health"
+        },
+        {
+            "host": "https://unicom-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://uni-terms-service.segurosunimed.com.br/api/actuator"
+        },
+        {
+            "host": "https://b2c-health-insured-legal-data-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://consulta-inadimplencia-financeira-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://corporativo-cep-rest-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://b2c-bff.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://relatorio-segurado-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://nexus.hml.digital-segurosunimed.com/"
+        },
+        {
+            "host": "https://health-insured-summary-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://negociacao.segurosunimed.com.br/"
+        },
+        {
+            "host": "https://provider-support-materials-service.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://provider-sync-producer-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://health-portal-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://insurance-portal-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://insurance-portal-broker-hub-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://portal-seguros-boletos-api.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://esign-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://financeiro-previdencia-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://financeiro-vida-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://produto-vida-pf-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://serit-java.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://siebel-integration-service.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://protocolo-ans-pf-service.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://implanta-contrato-saude.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://redecredenciadasaudewsv1.segurosunimed.com.br/actuator/health"
+        },
+        {
+            "host": "https://autorizacao-saude-java.segurosunimed.com.br/autorizacao-saude/actuator/health"
+        },
+        {
+            "host": "https://omni-evidag-java.segurosunimed.com.br/actuator/health"
+        }
+    ]
+}
